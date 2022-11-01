@@ -1,0 +1,12 @@
+C:\Users\Caio\source\repos\aula7\aula7\bin\Debug\aula7.exe.config
+C:\Users\Caio\source\repos\aula7\aula7\bin\Debug\aula7.exe
+C:\Users\Caio\source\repos\aula7\aula7\bin\Debug\aula7.pdb
+C:\Users\Caio\source\repos\aula7\aula7\obj\Debug\aula7.csproj.AssemblyReference.cache
+C:\Users\Caio\source\repos\aula7\aula7\obj\Debug\aula7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caio\source\repos\aula7\aula7\obj\Debug\aula7.fmhelloword.resources
+C:\Users\Caio\source\repos\aula7\aula7\obj\Debug\aula7.Properties.Resources.resources
+C:\Users\Caio\source\repos\aula7\aula7\obj\Debug\aula7.csproj.GenerateResource.cache
+C:\Users\Caio\source\repos\aula7\aula7\obj\Debug\aula7.csproj.CoreCompileInputs.cache
+C:\Users\Caio\source\repos\aula7\aula7\obj\Debug\aula7.exe
+C:\Users\Caio\source\repos\aula7\aula7\obj\Debug\aula7.pdb
+C:\Users\Caio\source\repos\aula7\aula7\obj\Debug\aula7.frmSoma.resources
