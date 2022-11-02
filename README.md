@@ -1,4 +1,4 @@
-## Imagens do projeto programa de viagem
+## Imagens do Projeto Programa de Viagem
 
 <img src="Planejamento_Projeto.png" style="width:500px;"/>
  
